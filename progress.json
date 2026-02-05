@@ -88,5 +88,14 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1770276442.04566,
+    "completed_at": 1770276449.006722,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
   }
 ]
