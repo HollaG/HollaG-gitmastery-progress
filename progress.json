@@ -144,5 +144,15 @@
       "Exercise is not a Git repository"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1772210607.04031,
+    "completed_at": 1772210610.764357,
+    "comments": [
+      "There are no new grocery list items added to the shopping list.",
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
   }
 ]
